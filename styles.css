@@ -1,5 +1,9 @@
 header {
-    border: 3px solid black
+    text-align: center;
+    max-width:500px ;
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -10,3 +14,11 @@ body {
 ul {
     list-style: none;
 }
+
+section {
+    max-width: 500px;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
