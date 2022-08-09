@@ -8,6 +8,9 @@ header {
     margin-bottom: 24px;
 }
 
+header h1 span{
+    color: #784611;
+}
 
 body {
     background-color: #fae789;
