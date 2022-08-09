@@ -37,3 +37,7 @@ ul li{
     margin-bottom: 16px;
     display: flex;
 }
+
+li.details {
+    max-width: 100px;
+}
