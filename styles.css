@@ -3,20 +3,19 @@
 header {
     background-color: white;
     text-align: center;
-    max-width:500px ;
+    max-width: 500px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 24px;
     padding: 6px 0;
 }
 
-header h1 span{
+header h1 span {
     color: #f0c803;
 }
 
-header h1{
-    margin-bottom:0;
-
+header h1 {
+    margin-bottom: 0;
 }
 
 header p {
@@ -30,9 +29,7 @@ body {
     font-family: 'Uchen', sans-serif;
 }
 
-ul {
-    list-style: none;
-}
+/* SECTION */
 
 section {
     background-color: white;
@@ -41,15 +38,27 @@ section {
     margin-right: auto;
     margin-bottom: 24px;
 }
- 
+
 section h2 {
     background-color: #f0c803;
     text-align: center;
-    padding: 8px 16px;
-
 }
 
-ul li{
+section h3 {
+    margin-block: 0;
+}
+
+
+/* LISTAS */
+
+
+ul {
+    list-style: none;
+    padding: 7px;
+}
+
+
+ul li {
     margin-bottom: 16px;
     display: flex;
 }
@@ -57,3 +66,5 @@ ul li{
 li.details {
     max-width: 100px;
 }
+
+
