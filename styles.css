@@ -5,12 +5,21 @@ header {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 24px;
+    padding: 6px 0;
 }
 
 header h1 span{
     color: #f0c803;
 }
 
+header h1{
+    margin-bottom:0;
+
+}
+
+header p {
+    margin-top: 0;
+}
 
 /* BODY */
 
