@@ -52,13 +52,13 @@ section h3 {
 /* LISTAS COMIDAS */
 
 
-ul {
+ul.food {
     list-style: none;
     padding: 7px;
 }
 
 
-ul li {
+ul.food li {
     margin-bottom: 16px;
     display: flex;
 }
@@ -69,6 +69,8 @@ li.details {
 
 
 /* LISTAS BEBIDAS */
+
+
 
 
 
