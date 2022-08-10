@@ -49,7 +49,7 @@ section h3 {
 }
 
 
-/* LISTAS */
+/* LISTAS COMIDAS */
 
 
 ul {
@@ -66,5 +66,10 @@ ul li {
 li.details {
     max-width: 100px;
 }
+
+
+/* LISTAS BEBIDAS */
+
+
 
 
