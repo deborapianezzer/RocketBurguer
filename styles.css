@@ -97,4 +97,9 @@ ul.drinks * {
 ul.description-drink li {
     display: flex;
     list-style: none;
+    
+}
+
+ul.description-drink h3 {
+    margin-bottom: 16px;
 }
